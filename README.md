@@ -8,6 +8,7 @@
 locales
 - czech
 - english
+- Spanish - By Roderic
 
 ---
 
