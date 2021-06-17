@@ -1,1 +1,17 @@
-"# x-radio-snippets" 
+# rcore-radiocar-snippets
+---
+
+#### Here are all snippets made by community/rcore dev team!
+
+---
+
+locales
+- czech
+- english
+
+---
+
+Snippets 
+- esx_vip
+
+---
