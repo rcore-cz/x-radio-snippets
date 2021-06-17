@@ -1,4 +1,4 @@
-# rcore-radiocar-snippets
+# x-radio-snippets
 ---
 
 #### Here are all snippets made by community/rcore dev team!
