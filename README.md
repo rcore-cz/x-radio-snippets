@@ -12,6 +12,6 @@ locales
 ---
 
 Snippets 
-- esx_vip
+- pxrp_vip
 
 ---
