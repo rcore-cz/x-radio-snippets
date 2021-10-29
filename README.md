@@ -14,6 +14,7 @@ locales
 
 Snippets 
 - pxrp_vip
+- qbcore
 
 ---
 
